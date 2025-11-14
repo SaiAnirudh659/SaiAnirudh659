@@ -9,7 +9,7 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 
 - 🎓 Graduate Student in **Data Science** at **Rutgers State University**
 - 💻 Passionate about **AI**, **machine learning**, and **data-driven web applications**
@@ -19,7 +19,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="mailto:sai.anirudh.kasarla@gmail.com">
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <!-- Programming -->
@@ -71,19 +71,19 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiAnirudh659&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiAnirudh659&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SaiAnirudh659&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaiAnirudh659&theme=onedark&row=1&column=6" />
@@ -91,7 +91,7 @@
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
 - 📊 Data Science & Machine Learning  
 - 🌎 Sustainability Tech + Climate Innovations  
